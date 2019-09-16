@@ -26,14 +26,14 @@ h1{
   border: 5px solid #ddd;
   border-radius: 10px;
   font-size: 45px;
-  background-color: #f5eeed;
+  background-color: #F6F2F3;
 }
 h2
 {
   font-family: "Palatino";
   border: 5px solid #ddd;
   border-radius: 10px;
-  color: #f5eeed;
+  color: #F6F2F3;
 }
 h3
 {
@@ -43,7 +43,7 @@ h3
 h4
 {
   font-family: "Palatino";
-  color: #f5eeed;
+  color: #F6F2F3;
 }
 
 p
